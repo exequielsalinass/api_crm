@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sandra",
+      "empresa": "Feee",
+      "email": "salinas_exequiel@hotmail.com",
+      "telefono": "02613418970",
+      "notas": "A",
+      "id": 2
+    },
+    {
+      "nombre": "Exequiel",
+      "empresa": "12212",
+      "email": "hola@hola.com",
+      "telefono": "02613418970",
+      "notas": "B",
+      "id": 3
+    },
+    {
+      "nombre": "Comida",
+      "empresa": "12212",
+      "email": "hola@hola.com",
+      "telefono": "02613418970",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
